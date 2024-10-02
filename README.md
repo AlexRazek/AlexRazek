@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋
+
+## 📂 Выполненные проекты по курсу web-разработчик Яндекс.Практикум:
+
+✅ Спринт 1-2 - [How to learn](https://github.com/AlexRazek/how-to-learn/ "Проект: Научиться Учиться")\
+✅ Спринт 3 - [Russian travel](https://github.com/AlexRazek/russian-travel/ "Проект: Путешествие по России")\
+✅ Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/AlexRazek/mesto/ "Проект: Mesto")\
+✅ Спринт 10-11-12 - [Mesto (React + auth)](https://github.com/AlexRazek/react-mesto-auth/ "Проект: Mesto (React + auth)")\
+✅ Спринт 13-14 - [Mesto (Backend for Mesto)](https://github.com/AlexRazek/express-mesto-gha/ "Проект: Mesto (Backend for Mesto)")\
+✅ Спринт 15 - [Mesto Fullstack (Mesto fullstack)](https://github.com/AlexRazek/react-mesto-api-full-gha "Проект: Mesto Fullstack")  \
+✅ Спринт 16 - Дипломная работа [Movies explorer](https://github.com/AlexRazek/movies-explorer-frontend/ "Проект: Movies explorer")\
 
 <!--
 **AlexRazek/AlexRazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

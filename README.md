@@ -2,19 +2,19 @@
 
 ## 📂 Выполненные проекты по курсу web-разработчик Яндекс.Практикум:
 
-✅ Спринт 1-2 - [How to learn](https://github.com/AlexRazek/how-to-learn/ "Проект: Научиться Учиться")
+✅ Спринт 1-2 - [How to learn](https://github.com/AlexRazek/how-to-learn/ "проект: how-to-learn")
 
-✅ Спринт 3 - [Russian travel](https://github.com/AlexRazek/russian-travel/ "Проект: Путешествие по России")
+✅ Спринт 3 - [Russian travel](https://github.com/AlexRazek/russian-travel/ "проект: russian-travel")
 
-✅ Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/AlexRazek/mesto/ "Проект: Mesto")
+✅ Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/AlexRazek/mesto/ "проект: mesto")
 
-✅ Спринт 10-11-12 - [Mesto](https://github.com/AlexRazek/react-mesto-auth/ "Проект: Mesto (React + auth)") (React + auth)
+✅ Спринт 10-11-12 - [Mesto](https://github.com/AlexRazek/react-mesto-auth/ "проект: react-mesto-auth") (React + auth)
 
-✅ Спринт 13-14 - [Mesto](https://github.com/AlexRazek/express-mesto-gha/ "Проект: Mesto (Backend for Mesto)") (Backend for Mesto)
+✅ Спринт 13-14 - [Mesto](https://github.com/AlexRazek/express-mesto-gha/ "проект: express-mesto-gha)") (Backend for Mesto)
 
-✅ Спринт 15 - [Mesto Fullstack](https://github.com/AlexRazek/react-mesto-api-full-gha/ "Проект: Mesto Fullstack") (Mesto fullstack)
+✅ Спринт 15 - [Mesto Fullstack](https://github.com/AlexRazek/react-mesto-api-full-gha/ "проект: react-mesto-api-full-gha") (Mesto fullstack)
 
-✅ Спринт 16 - [Дипломная работа](https://github.com/AlexRazek/movies-explorer-frontend/ "Проект: Movies explorer") (Movies explorer)
+✅ Спринт 16 - [Дипломная работа](https://github.com/AlexRazek/movies-explorer-frontend/ "проект: movies-explorer-frontend") (Movies explorer)
 
 <!--
 **AlexRazek/AlexRazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

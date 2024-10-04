@@ -16,6 +16,11 @@
 
 ✅ Спринт 16 - [Дипломная работа](https://github.com/AlexRazek/movies-explorer-frontend/ "проект: movies-explorer-frontend") (Movies explorer)
 
+
+## Статистика 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrazek&layout=donut-vertical)](https://github.com/alexrazek)
+
 <!--
 **AlexRazek/AlexRazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
